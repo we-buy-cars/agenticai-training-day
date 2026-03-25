@@ -2,8 +2,8 @@
 
 Claude Code has two modes — you choose the level of control:
 
-| | Plan Mode | Auto Execute |
-|---|-----------|-------------|
+| Aspect | Plan Mode | Auto Execute |
+|--------|-----------|-------------|
 | **How it works** | Claude proposes a plan, you approve before it acts | Claude reads, writes, and runs immediately |
 | **Speed** | Slower (you review each step) | Fastest (no approval between actions) |
 | **Best for** | Large refactors, architecture changes, unfamiliar code, high-risk work | Bug fixes, test generation, docs, small well-understood changes |

@@ -8,4 +8,4 @@
 
 ---
 
-*Created for the "Claude Code in Action" presentation by WeBuyCars. Questions? MarnusC@webuycars.co.za*
+*Created for the "Claude Code in Action" presentation by WeBuyCars.*
