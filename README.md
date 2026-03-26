@@ -39,6 +39,7 @@ claude
 | **6. Modes & Power Features** | Plan Mode vs Auto Execute, worktrees for parallel work, custom skills and commands |
 | **7. Agent SDK** | Build autonomous agents in Python — includes 3 exercises, custom tools, and a buggy app to review |
 | **8. Sarel Setup** | Production example: a DevOps PR review agent built with LangGraph |
+| **BA Tools** | Claude for Business Analysts — user stories, Azure DevOps integration, document extraction, and prompting tips |
 | **QA Tools** | Complete QA automation guides — from zero to Playwright pro with Claude Code |
 | **Nice To Haves** | Cheat sheet and security/compliance summary |
 
@@ -52,6 +53,7 @@ claude
 
 **Then pick your track:**
 
+- **Business Analysts** → [BA Tools](BA%20tools/) (user stories, DevOps integration, document extraction)
 - **Developers** → [3. Skills, Workflows & Tools](3.%20Skills%2C%20Workflows%20%26%20Tools/) → [6. Modes & Power Features](6.%20Modes%20%26%20Power%20Features/)
 - **QA Engineers** → [QA Tools](QA%20tools/) (start with the getting started guide)
 - **Agent Builders** → [7. Agent SDK](7.%20Agent%20SDK/) → [8. Sarel Setup](8.%20Sarel%20Setup/)
