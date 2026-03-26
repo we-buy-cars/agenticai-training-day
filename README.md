@@ -1,4 +1,4 @@
-# Agentic AI Training Day — WeBuyCars
+# Agentic AI Training Day — WeBuyCars Demo
 
 A hands-on training session on how we use Claude Code at WeBuyCars. This repo is your reference guide — everything from installation to building autonomous agents.
 
@@ -9,7 +9,7 @@ This is an internal WeBuyCars training covering how to use Claude Code effective
 ## Prerequisites
 
 - **Node.js** (v18+) — needed to install Claude Code
-- **Anthropic API key** — or access via your WeBuyCars organisation plan
+- **Anthropic API key** — or access via your company's organisation plan
 - **Python 3.10+** — only if you're doing the Agent SDK exercises (Section 7)
 - A terminal and a code editor (VS Code recommended)
 
